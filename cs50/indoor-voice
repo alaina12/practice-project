@@ -1,0 +1,2 @@
+user = input(str("Enter your name: "))
+print(user.lower())
